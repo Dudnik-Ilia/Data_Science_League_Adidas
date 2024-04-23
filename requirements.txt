@@ -1,0 +1,8 @@
+pandas
+joblib
+tqdm
+deap
+numpy
+xgboost
+scikit-learn
+scipy
